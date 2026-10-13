@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 280" role="img" aria-labelledby="title desc">
+  <title id="title">HZP Law Firm logo</title>
+  <desc id="desc">Stylized HZP monogram and law firm name in navy and gold.</desc>
+  <rect width="820" height="280" fill="#F5F1EA"/>
+  <g transform="translate(34 26)">
+    <g transform="translate(0 0)">
+      <path d="M90 0 L168 0 L168 220 L90 220 L90 0 Z" fill="#0B2F46"/>
+      <path d="M210 0 L288 0 L288 220 L210 220 L210 0 Z" fill="#0B2F46"/>
+      <path d="M90 38 L176 38 L176 58 L90 58 Z" fill="#D1AF60"/>
+      <path d="M210 38 L296 38 L296 58 L210 58 Z" fill="#D1AF60"/>
+      <path d="M160 0 L210 0 L210 220 L160 220 L160 0 Z" fill="#D1AF60"/>
+      <path d="M24 0 L90 0 L90 220 L24 220 L24 0 Z" fill="#0B2F46"/>
+      <path d="M300 0 L366 0 L366 220 L300 220 L300 0 Z" fill="#0B2F46"/>
+      <path d="M366 0 L424 0 L424 220 L366 220 L366 0 Z" fill="#D1AF60"/>
+      <path d="M424 0 L480 0 L480 220 L424 220 L424 0 Z" fill="#0B2F46"/>
+      <path d="M490 0 L558 0 L558 220 L490 220 L490 0 Z" fill="#0B2F46"/>
+      <path d="M564 0 L632 0 L632 220 L564 220 L564 0 Z" fill="#D1AF60"/>
+      <path d="M632 0 L700 0 L700 220 L632 220 L632 0 Z" fill="#0B2F46"/>
+      <path d="M700 0 L768 0 L768 220 L700 220 L700 0 Z" fill="#D1AF60"/>
+      <g fill="#0B2F46">
+        <path d="M90 40 L160 40 L160 220 L90 220 Z" opacity="0.12"/>
+        <path d="M296 40 L366 40 L366 220 L296 220 Z" opacity="0.12"/>
+      </g>
+      <path d="M90 220 L334 220 L334 258 L90 258 Z" fill="#0B2F46"/>
+      <path d="M332 220 L700 220 L700 258 L332 258 Z" fill="#D1AF60"/>
+    </g>
+  </g>
+  <text x="410" y="150" font-size="68" font-weight="700" letter-spacing="4" fill="#0B2F46" font-family="Georgia, serif">HUSAIN ZAHARA</text>
+  <text x="474" y="210" font-size="26" letter-spacing="10" fill="#0B2F46" font-family="Georgia, serif">&amp; PARTNERS</text>
+  <line x1="410" x2="728" y1="228" y2="228" stroke="#D1AF60" stroke-width="2"/>
+</svg>

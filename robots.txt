@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gustira05.github.io/Hzp/sitemap.xml
