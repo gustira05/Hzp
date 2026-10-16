@@ -6,6 +6,17 @@
   border-radius: 6px;
   box-shadow: 0 6px 20px rgba(8,39,53,0.12);
 }
-.team-card-single { text-align: center; padding: 1.25rem 0; }
-.team-card-single h3 { margin: 0.75rem 0 0.25rem; font-weight:700; font-size:1.1rem; }
-.team-card-single .role { color:#586069; font-size:0.95rem; margin:0; }
+.team-card-single {
+  text-align: center;
+  padding: 1.25rem 0;
+}
+.team-card-single h3 {
+  margin: 0.75rem 0 0.25rem;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+.team-card-single .role {
+  color: #586069;
+  font-size: 0.95rem;
+  margin: 0;
+}
