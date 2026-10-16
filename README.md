@@ -2,6 +2,12 @@
 
 This repository contains a bilingual static landing page for HZP Law Firm. It is designed as a premium, responsive legal website with English and Indonesian language toggling, friendly accessibility, and SEO basics.
 
+## Official contact & office
+- Website: https://hzplawfirm.web.id
+- Email: info@hzplawfirm.web.id
+- Phone: +62 21 2290 8730 / +62 821 6911 1131
+- Address: AsCom Building, 2nd Floor, Jl. Dr. Saharjo No. 216, Menteng Dalam, Tebet, South Jakarta 12870
+
 ## Files included
 - `index.html`
 - `assets/css/style.css`
@@ -30,11 +36,9 @@ To publish on GitHub Pages, enable Pages in the repository settings and choose t
 
 ## Before production publication
 Update the following placeholders before publishing or making the site live:
-- official office address
-- official phone number
-- official email address
-- any team names and bios if they are not verified
-- all image sources if they are external and not licensed for your use
+- confirm official office address and contact details
+- verify any team names and bios
+- replace placeholder images with licensed or official assets
 
 ## Notes on images
 This version uses a mixture of the provided logo concept and Unsplash CDN imagery for presentation. If you have the official firm logo file or licensed image assets, replace them locally in the `assets/images` folder or update the URLs in `index.html`.
